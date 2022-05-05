@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">34681861349-nhdai5o4r7p72mam7ijjshrjmq4tns64.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">34681861349</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1Uxr6sxx-WxT_TWVJuQidoTQXCz5T0-I</string>
+    <string name="google_app_id" translatable="false">1:34681861349:android:c0c0c1842f7c89aad7500c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1Uxr6sxx-WxT_TWVJuQidoTQXCz5T0-I</string>
+    <string name="google_storage_bucket" translatable="false">sacred-brace-344812.appspot.com</string>
+    <string name="project_id" translatable="false">sacred-brace-344812</string>
+</resources>
