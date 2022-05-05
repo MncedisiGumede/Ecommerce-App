@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34681861349",
+    "project_id": "sacred-brace-344812",
+    "storage_bucket": "sacred-brace-344812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34681861349:android:c0c0c1842f7c89aad7500c",
+        "android_client_info": {
+          "package_name": "com.example.project_deapsea2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34681861349-nhdai5o4r7p72mam7ijjshrjmq4tns64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Uxr6sxx-WxT_TWVJuQidoTQXCz5T0-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34681861349-nhdai5o4r7p72mam7ijjshrjmq4tns64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
